@@ -22,7 +22,7 @@ Best case : 2
 
 
 
-[kodluyoruzilkrepo](https://github.com/sumeyyaozler/insertion-short-projesi.git)
+[kodluyoruzilkrepo](https://github.com/sumeyyaozler/insertion-sort-projesi.git)
 
 * list item 1 [link bilgisi](https://kodluyoruz.org)
 
